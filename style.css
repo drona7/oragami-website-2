@@ -1,0 +1,22 @@
+h1{
+    color : #000000
+}
+
+.Header{
+    background-color: #7d7d7d;
+    display:flex;
+    justify-content:space-between
+}
+
+.Grid{
+    display:flex;
+    justify-content:space-evenly ;
+    flex-wrap:wrap ;
+}
+
+
+
+body{
+background-color:#7d7d7d ;
+
+}
